@@ -25,10 +25,7 @@ class RBM(object):
 
         Parameters
         ----------
-        X :
-
-        Returns
-        -------
+        X : array with shape [number of examples, number of features]
 
         """
 
